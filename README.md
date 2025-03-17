@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hello! I'm Ypags </h1>
 
+<p align="center">
+  <img width="800" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 <details align="left">
   <summary><h2><b>🌐 Connect with Me</b></h2></summary>
   <div align="left">
@@ -8,10 +12,6 @@
       <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
     </div>
 </details>
-
-<p align="center">
-  <img width="800" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 <h2 align="center">💫 About Me</h2>
 Hey there! I'm Artem, a Frontend Developer who loves bringing ideas to life with Vue.js. I'm passionate about creating modern, user-friendly interfaces and always experimenting with new technologies to push the limits of web development.
