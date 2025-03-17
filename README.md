@@ -7,9 +7,9 @@
 <div align="left">
   <h2><b>🌐 Connect with Me</b></h2>
   <div align="left">
-      <a href="https://vk.com/n13ro"><img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"></a>
-      <a href="danilbagisev472@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"></a>
-      <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
+      <a href="https://vk.com/prostopotato"><img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"></a>
+      <a href="oartem.28082007@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"></a>
+      <a href="https://t.me/prostopotato"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
     </div>
 </div>
 
