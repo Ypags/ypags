@@ -28,7 +28,7 @@ Hey there! I'm Artem, a Frontend Developer who loves bringing ideas to life with
 
 
 <details align="left">
-  <h2 align="center">🌐 Connect with Me</h2>
+  <summary><h2><b>🌐 Connect with Me</b></h2></summary>
   <div align="left">
       <a href="https://vk.com/n13ro"><img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"></a>
       <a href="danilbagisev472@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"></a>
