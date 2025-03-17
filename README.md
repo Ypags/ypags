@@ -4,7 +4,7 @@
   <img width="800" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-## About me
+<h2 align="center">💫 About Me</h2>
 
 Hey there! I'm Artem, a Frontend Developer who loves bringing ideas to life with Vue.js. I'm passionate about creating modern, user-friendly interfaces and always experimenting with new technologies to push the limits of web development.
 
@@ -26,7 +26,9 @@ Hey there! I'm Artem, a Frontend Developer who loves bringing ideas to life with
   </p>
 </details>
 
+
 <details align="left">
+  <h2 align="center">🌐 Connect with Me</h2>
   <div align="left">
       <a href="https://vk.com/n13ro"><img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"></a>
       <a href="danilbagisev472@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"></a>
