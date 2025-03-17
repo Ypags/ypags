@@ -13,7 +13,7 @@
     </div>
 </div>
 
-<h2 align="center">💫 About Me</h2>
+<h2 align="left">💫 About Me</h2>
 <p>Hey there! I'm Artem, a Frontend Developer who loves bringing ideas to life with Vue.js. I'm passionate about creating modern, user-friendly interfaces and always experimenting with new technologies to push the limits of web development.</p>
 
 <div align="left">
